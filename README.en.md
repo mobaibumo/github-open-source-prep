@@ -83,4 +83,4 @@ The inspector does not replace a full credential scan or asset rights review. If
 
 Issues and pull requests with reproducible problems and improvements are welcome. Maintain both READMEs when changing behavior, and run the isolated tests after changing the inspector.
 
-A license has not been selected. No open source license is currently granted; the author must choose and add a LICENSE before public release.
+This project is licensed under the [MIT License](LICENSE), copyright mobaibumo. Use, modification, distribution, and commercial use are permitted provided the copyright and permission notice are retained. The software is provided as is, without warranty.
