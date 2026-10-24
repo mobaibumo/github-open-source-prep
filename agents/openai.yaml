@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub 开源项目整理"
+  short_description: "整理多类型项目、维护中英文说明并同步私有 GitHub 仓库，协助准备开源"
+  default_prompt: "使用 $github-open-source-prep 整理当前项目，维护中英文 README，并按已确定的范围同步到私有 GitHub 仓库。"
