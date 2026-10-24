@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.github-open-source-prep.local.json
+.env
+.env.*
+!.env.example
